@@ -28,5 +28,8 @@
     "babel-jest": "^28.1.2",
     "jest": "^28.1.2",
     "nodemon": "^2.0.19"
+  },
+  "dependencies": {
+    "winston": "^3.8.1"
   }
 }
